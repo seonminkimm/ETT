@@ -12,7 +12,7 @@
 <p align="center">
 <img src=".\img\dataset_year.png" height = "320" alt="" align=center />
 <br><br>
-<b>Figure 1. </b>The overall view of "OT" in the ETT
+<b>Figure 1. </b>The overall view of "OT" in the ETT 
 </p>
 특히 데이터 세트는 단기 주기 패턴, 장기 주기 패턴, 장기 추세 및 다양한 불규칙 패턴을 결합합니다. 먼저 그림 1에서 전체적인 모습을 보여주며,계절적 추세를 보입니다.
 
@@ -25,7 +25,7 @@
 그림 2는 장기 및 단기 반복 패턴의 확인하기 위한 ETTh1 데이터 세트의 모든 변수에 대한 자기 상관을 나타내는 그래프입니다. 위의 파란색 선은 목표 OT (오일 온도)이며, 단기 지역성을 유지합니다. 그러나 다른 변수(전력부하)는 단기 일일 패턴(24시간마다)과 장기 주간 패턴(7일마다)을 나타냅니다.
 
 <p align="center">
-<img src=".\img\ETT.png" height = "320" alt="" align=center />
+<img src=".\img\ETT.png" height = "150" alt="" align=center />
 <br><br>
 <b>Figure 2. </b>The autocorrelation graph of all variables.
 </p>
