@@ -10,7 +10,7 @@
 이는 6개의 전력 부하 feature와 날짜, ‘oil temperature(오일온도)’ 를 포함한 8가지 feature로 구성되며, 오일 온도는 변압기의 상태를 반영할 수 있습니다. 전기 변압기의 오일 온도를 예측하여 변압기의 안정성 판단에도 사용할 수 있습니다(단변량 시계열 예측). 
 
 <p align="center">
-<img src=".\img\dataset_year.png" height = "320" alt="" align=center />
+<img src=".\img\dataset_year.png" height = "320" alt="" align=center /> 
 <br><br>
 <b>Figure 1. </b>The overall view of "OT" in the ETT 
 </p>
@@ -27,7 +27,7 @@
 <p align="center">
 <img src=".\img\ETT.png" height = "150" alt="" align=center />
 <br><br>
-<b>Figure 2. </b>The autocorrelation graph of all variables.
+<b>table 1. </b>ETT data.
 </p>
 
 이러한 장기 전력 소모량 예측과 같이 긴 길이의 시계열을 예측하기 위해서는 인풋과 아웃풋 사이의 긴 범위의 의존성을 정확히 포착하는 모델의 높은 예측 용량이 요구됩니다. (Long sequence time-series forecasting)
