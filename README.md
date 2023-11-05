@@ -14,7 +14,7 @@
 <br><br>
 <b>Figure 1. </b>The overall view of "OT" in the ETT
 </p>
-특히 데이터 세트는 단기 주기 패턴, 장기 주기 패턴, 장기 추세 및 다양한 불규칙 패턴을 결합합니다. 먼저 그림 1에서 전체적인 모습을 보여주며, 이는 분명한 계절적 추세를 보여줍니다
+특히 데이터 세트는 단기 주기 패턴, 장기 주기 패턴, 장기 추세 및 다양한 불규칙 패턴을 결합합니다. 먼저 그림 1에서 전체적인 모습을 보여주며,계절적 추세를 보입니다.
 
 <p align="center">
 <img src=".\img\auto_correlation.png" height = "320" alt="" align=center />
